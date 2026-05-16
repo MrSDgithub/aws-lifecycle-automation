@@ -1,0 +1,100 @@
+{
+    "project": "AWS EC2 and S3 Lifecycle Automation",
+    "region": "us-east-2",
+    "stage": "after",
+    "generated_at": "2026-05-16 15:59:37",
+    "s3": {
+        "bucket_name": "souhardya-lifecycle-auto-1778925587",
+        "object_count": 3,
+        "status": "Available",
+        "note": "S3 is object storage and cannot be stopped like EC2."
+    },
+    "ec2": {
+        "instance_id": "i-0907728c042bb380b",
+        "instance_type": "t3.micro",
+        "state": "stopped",
+        "private_ip": "172.31.43.207",
+        "public_ip": "N/A"
+    }
+}
+Report saved to: outputs/after_stop_report.json
+{
+    "project": "AWS EC2 and S3 Lifecycle Automation",
+    "region": "us-east-2",
+    "stage": "after",
+    "generated_at": "2026-05-16 16:00:01",
+    "s3": {
+        "bucket_name": "souhardya-lifecycle-auto-1778925587",
+        "object_count": 3,
+        "status": "Available",
+        "note": "S3 is object storage and cannot be stopped like EC2."
+    },
+    "ec2": {
+        "instance_id": "i-0907728c042bb380b",
+        "instance_type": "t3.micro",
+        "state": "stopped",
+        "private_ip": "172.31.43.207",
+        "public_ip": "N/A"
+    }
+}
+Report saved to: outputs/after_stop_report.json
+{
+    "project": "AWS EC2 and S3 Lifecycle Automation",
+    "region": "us-east-2",
+    "stage": "after",
+    "generated_at": "2026-05-16 16:05:02",
+    "s3": {
+        "bucket_name": "souhardya-lifecycle-auto-1778925587",
+        "object_count": 3,
+        "status": "Available",
+        "note": "S3 is object storage and cannot be stopped like EC2."
+    },
+    "ec2": {
+        "instance_id": "i-0907728c042bb380b",
+        "instance_type": "t3.micro",
+        "state": "running",
+        "private_ip": "172.31.43.207",
+        "public_ip": "18.225.111.187"
+    }
+}
+Report saved to: outputs/after_stop_report.json
+{
+    "project": "AWS EC2 and S3 Lifecycle Automation",
+    "region": "us-east-2",
+    "stage": "after",
+    "generated_at": "2026-05-16 16:10:01",
+    "s3": {
+        "bucket_name": "souhardya-lifecycle-auto-1778925587",
+        "object_count": 3,
+        "status": "Available",
+        "note": "S3 is object storage and cannot be stopped like EC2."
+    },
+    "ec2": {
+        "instance_id": "i-0907728c042bb380b",
+        "instance_type": "t3.micro",
+        "state": "stopped",
+        "private_ip": "172.31.43.207",
+        "public_ip": "N/A"
+    }
+}
+Report saved to: outputs/after_stop_report.json
+{
+    "project": "AWS EC2 and S3 Lifecycle Automation",
+    "region": "us-east-2",
+    "stage": "after",
+    "generated_at": "2026-05-16 16:15:02",
+    "s3": {
+        "bucket_name": "souhardya-lifecycle-auto-1778925587",
+        "object_count": 3,
+        "status": "Available",
+        "note": "S3 is object storage and cannot be stopped like EC2."
+    },
+    "ec2": {
+        "instance_id": "i-0907728c042bb380b",
+        "instance_type": "t3.micro",
+        "state": "stopped",
+        "private_ip": "172.31.43.207",
+        "public_ip": "N/A"
+    }
+}
+Report saved to: outputs/after_stop_report.json

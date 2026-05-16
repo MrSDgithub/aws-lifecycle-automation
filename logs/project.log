@@ -1,0 +1,32 @@
+2026-05-16 15:29:47,263 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-05-16 15:30:06,647 - INFO - S3 bucket created successfully: souhardya-lifecycle-auto-1778925587
+2026-05-16 15:30:06,815 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-05-16 15:30:09,645 - INFO - Security group created: sg-012d838d02a06efab
+2026-05-16 15:30:12,776 - INFO - EC2 instance launched successfully: i-0907728c042bb380b
+2026-05-16 15:30:28,615 - INFO - EC2 instance is now running: i-0907728c042bb380b
+2026-05-16 15:30:28,817 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-05-16 15:30:47,055 - INFO - before report generated successfully: outputs/before_stop_report.json
+2026-05-16 15:30:47,241 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-05-16 15:30:47,328 - INFO - Waiting 120 seconds before stopping EC2 instance: i-0907728c042bb380b
+2026-05-16 15:32:47,433 - INFO - Stopping EC2 instance: i-0907728c042bb380b
+2026-05-16 15:33:20,547 - INFO - EC2 instance stopped successfully: i-0907728c042bb380b
+2026-05-16 15:33:20,738 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-05-16 15:33:23,697 - INFO - after report generated successfully: outputs/after_stop_report.json
+2026-05-16 15:59:37,197 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-05-16 15:59:40,952 - INFO - after report generated successfully: outputs/after_stop_report.json
+2026-05-16 16:00:01,803 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-05-16 16:00:05,819 - INFO - after report generated successfully: outputs/after_stop_report.json
+2026-05-16 16:05:02,263 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-05-16 16:05:05,110 - INFO - after report generated successfully: outputs/after_stop_report.json
+2026-05-16 16:10:01,638 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-05-16 16:10:04,741 - INFO - after report generated successfully: outputs/after_stop_report.json
+2026-05-16 16:13:20,463 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-05-16 16:13:20,551 - INFO - S3 bucket already exists in state: souhardya-lifecycle-auto-1778925587
+2026-05-16 16:13:20,706 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-05-16 16:13:20,797 - INFO - EC2 instance already exists in state: i-0907728c042bb380b
+2026-05-16 16:13:20,974 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-05-16 16:13:23,845 - INFO - before report generated successfully: outputs/before_stop_report.json
+2026-05-16 16:13:24,082 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-05-16 16:13:24,172 - INFO - Waiting 120 seconds before stopping EC2 instance: i-0907728c042bb380b
+2026-05-16 16:15:01,976 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-05-16 16:15:04,721 - INFO - after report generated successfully: outputs/after_stop_report.json
